@@ -51,7 +51,7 @@ const questions = () => {
             type: 'list',
             name: 'license',
             message: `Please select a license from the following.\n`,
-            choices: [`MIT`, `GNU`, `none`]
+            choices: [`MIT License`, `GNU General Public License v3.0`, `Apache License 2.0`, `none`]
         },
     ])
 }
