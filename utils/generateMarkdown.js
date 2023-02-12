@@ -70,7 +70,7 @@ A permissive license whose main conditions require preservation of copyright and
 Contributors provide an express grant of patent rights. 
 Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-![License Source](https://choosealicense.com/licenses/)
+[License Source](https://choosealicense.com/licenses/)
       `
   } else if (responses.license == `none`) {
     badge = ``
