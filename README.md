@@ -1,8 +1,8 @@
-# title
+# Title of project
 
 
 ## Description
-descri
+best project ever
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,11 +14,11 @@ descri
 
 
 ## Installation
-insta
+no
 
 
 ## Usage
-use
+for sage
 
 
 ## License
@@ -26,13 +26,13 @@ MIT
 
 
 ## Contributing
-contri
+just don't bother
 
 
 ## Test
-test
+get in and doit
 
 
 ## Questions
-If you have any questions, please email me at email.com.
-You can also find more information at https://github.com/username
+If you have any questions, please email me at none@none.com.
+You can also find more information at https://github.com/sotothemayor
