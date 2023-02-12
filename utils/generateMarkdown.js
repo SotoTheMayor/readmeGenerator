@@ -47,9 +47,9 @@ You can also find more information at https://github.com/${responses.user}
 // If there is no license, return an empty string
 function renderLicenseBadge(responses) {
   if (responses.license == `MIT`) {
-    badge = `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]`
+    badge = `![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)`
   } else if (responses.license == `GNU`) {
-    badge = `[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]`
+    badge = `![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)`
   } else if (responses.license == `none`) {
     badge = ``
   }

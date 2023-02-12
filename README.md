@@ -1,6 +1,6 @@
 # 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 
 ## Description
@@ -24,7 +24,7 @@
 
 
 ## License
-MIT
+GNU
 
 
 ## Contributing
