@@ -1,10 +1,10 @@
-# 
+# README Generator
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://choosealicense.com/licenses/apache-2.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://choosealicense.com/licenses/mit/)
 
 
 ## Description
-
+An application to generate a fully built out README using the CLI
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,31 +16,32 @@
 
 
 ## Installation
-
+User will need to initialize NPM and add the packages to utilize prompts and file writing. Specifically inquirer and fs
 
 
 ## Usage
-
+Application is used to generate a README based on user question answers and list selections in the CLI
 
 
 ## License
 
-A permissive license whose main conditions require preservation of copyright and license notices. 
-Contributors provide an express grant of patent rights. 
+MIT License
+
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. 
 Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 [License Source](https://choosealicense.com/licenses/)
-      
+    
 
 
 ## Contributing
-
+No specific guidelines, just fork and build within your own repo
 
 
 ## Test
-
+Error messaging is built in, but no testing should be required.  If NPM is initialized and inquirer and fs are added, everything should work
 
 
 ## Questions
-If you have any questions, please email me at .
-You can also find more information at https://github.com/
+If you have any questions, please email me at quickfire25@yahoo.com.
+You can also find more information at https://github.com/SotoTheMayor
