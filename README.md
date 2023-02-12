@@ -4,7 +4,7 @@
 
 
 ## Description
-An application to generate a fully built out README using the CLI
+An application created to generate a fully built out and useful README for your project using the CLI and prompts.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,12 +16,13 @@ An application to generate a fully built out README using the CLI
 
 
 ## Installation
-User will need to initialize NPM and add the packages to utilize prompts and file writing. Specifically inquirer and fs
+User will need to initialize NPM, as well as rquire the inquirer and fs packages
 
 
 ## Usage
-Application is used to generate a README based on user question answers and list selections in the CLI
+README generator is used to create a README for any project, using a preset template.  See the following video for an overview on the usage.
 
+![Tutorial Gif](./utils/README%20Generator%20Tutorial.gif)
 
 ## License
 
@@ -35,11 +36,11 @@ Licensed works, modifications, and larger works may be distributed under differe
 
 
 ## Contributing
-No specific guidelines, just fork and build within your own repo
+Just fork and use as you like.  No specific guidelines other than license.
 
 
 ## Test
-Error messaging is built in, but no testing should be required.  If NPM is initialized and inquirer and fs are added, everything should work
+No testing should be needed, but error messaging has been added.  Only issues should be around initializing NPM and adding the packages needed - inquirer and fs
 
 
 ## Questions
