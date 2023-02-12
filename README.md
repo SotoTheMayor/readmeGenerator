@@ -1,8 +1,10 @@
-# Title of project
+# 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Description
-best project ever
+
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,11 +16,11 @@ best project ever
 
 
 ## Installation
-no
+
 
 
 ## Usage
-for sage
+
 
 
 ## License
@@ -26,13 +28,13 @@ MIT
 
 
 ## Contributing
-just don't bother
+
 
 
 ## Test
-get in and doit
+
 
 
 ## Questions
-If you have any questions, please email me at none@none.com.
-You can also find more information at https://github.com/sotothemayor
+If you have any questions, please email me at .
+You can also find more information at https://github.com/
