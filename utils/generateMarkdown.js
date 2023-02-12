@@ -1,7 +1,7 @@
 
 // TODO: Create a function that returns a license badge based on which license is passed in
-renderLicenseBadge(responses);
 const generateMarkdown = responses => {
+  renderLicenseBadge(responses);
 return `# ${responses.title}
 
 ${badge}
