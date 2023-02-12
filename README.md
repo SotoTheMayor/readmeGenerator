@@ -1,6 +1,6 @@
 # 
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://choosealicense.com/licenses/gpl-3.0/)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://choosealicense.com/licenses/apache-2.0/)
 
 
 ## Description
@@ -25,12 +25,12 @@
 
 ## License
 
-Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, 
-which include larger works using a licensed work, under the same license. 
-Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+A permissive license whose main conditions require preservation of copyright and license notices. 
+Contributors provide an express grant of patent rights. 
+Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-![License Source](https://choosealicense.com/licenses/)
-    
+[License Source](https://choosealicense.com/licenses/)
+      
 
 
 ## Contributing
