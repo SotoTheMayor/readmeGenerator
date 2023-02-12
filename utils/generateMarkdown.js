@@ -1,7 +1,7 @@
 
 // TODO: Create a function that returns a license badge based on which license is passed in
+renderLicenseBadge(responses);
 const generateMarkdown = responses => {
-  renderLicenseBadge(responses);
 return `# ${responses.title}
 
 ${badge}
@@ -47,9 +47,9 @@ You can also find more information at https://github.com/${responses.user}
 // If there is no license, return an empty string
 function renderLicenseBadge(responses) {
   if (responses.license == `MIT`) {
-    badge = `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
+    badge = `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]`
   } else if (responses.license == `GNU`) {
-    badge = `[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)`
+    badge = `[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]`
   } else if (responses.license == `none`) {
     badge = ``
   }
