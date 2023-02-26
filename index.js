@@ -58,7 +58,7 @@ const questions = () => {
 
 // Function that creates the README.md file
 const writeToFile = responses => {
-    fs.writeFile(`README.md`, responses, (err) =>
+    fs.writeFile(`./dir/README.md`, responses, (err) =>
   err ? console.log(err) : console.log('Success!')
 );
 }
