@@ -27,6 +27,9 @@ ${responses.installation}
 ## Usage
 ${responses.usage}
 
+[text displayed](https://**urlhere**)
+
+![description of image](./**img_path**)
 
 ## License
 ${licenseDes}
